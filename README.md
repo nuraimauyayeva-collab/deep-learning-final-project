@@ -1,16 +1,26 @@
-# Fake News Detection using LSTM
+# Week 01 Report
 
-This project detects fake and real news using deep learning models.
+## Completed Work
+- Selected fake news detection topic
+- Downloaded dataset
+- Created GitHub repository
+- Performed exploratory data analysis
 
-## Dataset
-Fake and Real News Dataset from Kaggle
+## Important Commits
+- add README
+- create project structure
+- upload EDA notebook
 
-## Models
-- Logistic Regression
-- LSTM
+## Results
+- Dataset contains around 44,000 articles
+- Classes are balanced
+- No major missing values found
 
-## Technologies
-- Python
-- PyTorch
-- Pandas
-- Scikit-learn
+## Problems
+- Long text sequences
+- Large vocabulary size
+
+## Plan for Next Week
+- Text preprocessing
+- Baseline Logistic Regression model
+- Train/test split
