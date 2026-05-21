@@ -1,0 +1,4 @@
+text,true_label,predicted_label,error_type
+"This news article contains misleading information",Fake,Real,False Positive
+"The government confirmed the event officially",Real,Fake,False Negative
+"Breaking news with emotional language",Fake,Real,False Positive
