@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1
+Logistic Regression,0.95,0.95,0.95,0.95
+MLP,0.96,0.96,0.96,0.96
+LSTM,0.98,0.98,0.98,0.98
