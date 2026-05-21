@@ -1,0 +1,40 @@
+# Data files (large, download instructions instead)
+*.csv
+*.zip
+*.tar
+*.gz
+
+# Model checkpoints (large)
+*.pth
+*.h5
+*.ckpt
+
+# Virtual environments
+venv/
+env/
+.venv/
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs and results (optional — if you want to keep only summary, not all files)
+logs/
+*.log
+
+# Kaggle API key
+kaggle.json
+
+# Colab temporary files
+sample_data/
